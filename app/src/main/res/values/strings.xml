@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="space_value"> </string>
+    <string name="created_by">Created By Jacob Lefler</string>
+    <string name="player_One">X</string>
+    <string name="player_Two">O</string>
+    <string name="new_game">New Game</string>
+</resources>
